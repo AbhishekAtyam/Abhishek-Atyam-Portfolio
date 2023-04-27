@@ -167,12 +167,10 @@
   justify-content: center;
   margin-top: 2rem;
   margin-left:19rem;
-   /* add some margin to create space between the buttons */
- }*/ 
+ }
 
 .buttons1 .btn {
   margin: 0 0.5rem;
-   /* add some margin to create space between the buttons */
    height: 40px;
 } */
 /* Styles for screens larger than 768px */
